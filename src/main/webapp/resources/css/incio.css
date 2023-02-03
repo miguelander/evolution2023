@@ -1,0 +1,58 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background: url(LOGOSENA.png);
+    
+    }
+.Formulario{
+    width: 400px;
+    background: #662917a8;
+    padding: 30px;
+    margin: auto;
+    margin-top: 100px;
+    border-radius: px;
+    font-family:'Brush Script MT';
+    font-size: 22px;
+    color:white;
+    box-shadow: 34px 18px 37px rgb(224, 75, 75);
+}
+.Formulario h1{
+
+    font-size: 60px;
+    margin-bottom: 20px;
+    
+}
+
+.recuadro{
+
+    
+    width: 96%;
+    background: rgba(240, 203, 100, 0.582);
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 16px;
+    border: 1px solid rgba(255, 255, 255, 0.226);
+    font-family:'Brush Script MT';
+    font-size: 22px;
+    color:white
+
+}
+
+.boton{
+ 
+    width: 100%;
+    background: rgba(240, 203, 100, 0.582);
+    border: none;
+    padding: 12px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
+.azul{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(148, 4, 4);
+    
+    
+}
